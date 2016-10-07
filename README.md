@@ -1,8 +1,8 @@
 # ldict 
  curly-couscous
+ldict - less-dict. Was supposed to be dict-less but dictl is already taken
 
-dict-less but dictl is already taken so its less dict
-Simple program to pipe the result from a dict command into less
+ldict is a simple program to pipe the result from a dict command into less
 
 ## dependencies:
 * less
