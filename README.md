@@ -7,6 +7,7 @@ ldict is a simple program to pipe the result from a dict command into less
 ## dependencies:
 * less
 * dict (and dictonaries of your choice)
+* sudo or root priviledges if you wish to run the make install. It will add ldict to your /usr/bin.
 
 I leave the dependency instalation up to you so you can easily choose your dictonaries
 
