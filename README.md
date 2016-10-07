@@ -23,4 +23,4 @@ make -f $HOME/Programs/ldict/Makefile install
 ```
 
 ## manual install:
-If you do not have sudo/root privileges or do not want ldict in /usr/bin you can create your own path or symlink to the `/dict/ldict` executable
+If you do not have sudo/root privileges or do not want ldict in /usr/bin you can create your own path or symlink to the `/ldict/ldict` executable
